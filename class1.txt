@@ -16,7 +16,4 @@ himaram
 ashok
 guna
 mohan
-<<<<<<< HEAD
 abcdefghijklmnopqrstuvwxy
-=======
->>>>>>> 0ab67dfa0b7d4f563820a45deaf1141408cc2975
